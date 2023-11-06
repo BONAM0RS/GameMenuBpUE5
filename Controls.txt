@@ -1,0 +1,7 @@
+# User Interface
+Set random level 1-111     Num 1
+Set random exp   0-100     Num 2
+
+# Audio
+Mute / Unmute all          Num 7
+Mute / Unmute music        Num 8
