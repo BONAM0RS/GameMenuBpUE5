@@ -1,5 +1,5 @@
 # GameMenuBpUE5
-Implementation of game menu using UMG in Unreal Engine 5.3
+Implementation of game menu using Widget Blueprints in UMG (Unreal Engine 5.3)
 
 ![](https://imgur.com/dbheLC7.png)
 
