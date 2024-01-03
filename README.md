@@ -1,2 +1,2 @@
-# GameMenuPrototypeBpUE5
-UI/UX Technical Designer (Unreal Engine UI Developer) test task for Pingle studio
+# GameMenuBpUE5
+Implementation of game menu using UMG in Unreal Engine 5.3
